@@ -4,6 +4,10 @@
 
 [iris是谁？](https://meteorcollector.github.io/2022/10/iris-manual/)
 
+### 广告
+
+[StarGLM](https://github.com/Yu-Yang-Li/StarGLM/)已发布！这是第一个中文天文学大语言模型，快去看看吧！
+
 ### 项目结构
 
 `XGL_3rd.txt` 使用chatGPT生成的原始语料，在语言组织、准确度等方面都较差，请不要使用；
@@ -31,3 +35,7 @@
 ### 2022.4.25 进度
 
 花了几天对原来的语料库进行了整理和增补，并在iris上实装了“全应答”功能来进行天文问答。
+
+### 2023.9.20 进度
+
+已经将南京大学天文爱好者协会群中到目前为止投喂的语料加入，感谢各位群友。另外，本项目在[StarGLM](https://github.com/Yu-Yang-Li/StarGLM/)项目中被提及，不胜荣幸qaq
